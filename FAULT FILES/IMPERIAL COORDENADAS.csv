@@ -1,0 +1,9 @@
+WKT,WKT_GEOMET,accuracy,activity_c,average_di,average_ra,catalog_id,catalog_na,dip_dir,downthrown,downthro_1,epistemic_,exposure_q,fs_name,is_active,last_movem,lower_seis,name,net_slip_r,notes,ogc_fid,reference,shortening,slip_type,strike_sli,upper_seis,vert_sep_r,vertex_index,vertex_part,vertex_part_index,distance,angle
+"POINT (-115.551012273209 32.9056220576654)",,,,"(90.0,,)",,MX_28.0,Villegas Mexico,,,,,,,,"1940",,Imperial,"(40.0,,)",,,"Cruz-Castillo M., 2002",,Dextral,,,,"0","0","0",0.00000000000000,138.81407483428927
+"POINT (-115.38582753167 32.7168394959068)",,,,"(90.0,,)",,MX_28.0,Villegas Mexico,,,,,,,,"1940",,Imperial,"(40.0,,)",,,"Cruz-Castillo M., 2002",,Dextral,,,,"1","0","1",0.25084826979953,137.11156135489031
+"POINT (-115.309104070033 32.6390126449512)",,,,"(90.0,,)",,MX_28.0,Villegas Mexico,,,,,,,,"1940",,Imperial,"(40.0,,)",,,"Cruz-Castillo M., 2002",,Dextral,,,,"2","0","2",0.36013462894500,132.88679222428985
+"POINT (-115.282975861563 32.6168036677525)",,,,"(90.0,,)",,MX_28.0,Villegas Mexico,,,,,,,,"1940",,Imperial,"(40.0,,)",,,"Cruz-Castillo M., 2002",,Dextral,,,,"3","0","3",0.39442634727487,129.18163450779821
+"POINT (-115.241170728013 32.5841434071662)",,,,"(90.0,,)",,MX_28.0,Villegas Mexico,,,,,,,,"1940",,Imperial,"(40.0,,)",,,"Cruz-Castillo M., 2002",,Dextral,,,,"4","0","4",0.44747690629869,130.88992860368839
+"POINT (-115.20981687785 32.5540959674267)",,,,"(90.0,,)",,MX_28.0,Villegas Mexico,,,,,,,,"1940",,Imperial,"(40.0,,)",,,"Cruz-Castillo M., 2002",,Dextral,,,,"5","0","5",0.49090400100844,133.75404737240245
+"POINT (-115.179769438111 32.5253549381108)",,,,"(90.0,,)",,MX_28.0,Villegas Mexico,,,,,,,,"1940",,Imperial,"(40.0,,)",,,"Cruz-Castillo M., 2002",,Dextral,,,,"6","0","6",0.53248398899587,136.20917798319672
+"POINT (-115.141883535831 32.4822433941368)",,,,"(90.0,,)",,MX_28.0,Villegas Mexico,,,,,,,,"1940",,Imperial,"(40.0,,)",,,"Cruz-Castillo M., 2002",,Dextral,,,,"7","0","7",0.58987690506917,138.69138598645728

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nrml xmlns:gml="http://www.opengis.net/gml" xmlns="http://openquake.org/xmlns/nrml/0.4">
+    <simpleFaultRupture>
+        <magnitude>7.5</magnitude>
+        <rake>180</rake>
+        <hypocenter lat="33.75" lon="-116.6" depth="8.8"/>
+        <simpleFaultGeometry>
+            <gml:LineString>
+                <gml:posList>
+                    -116.355681 32.949652
+                    -116.407006999999 32.98262
+                    -116.460233 33.010878
+                    -116.519163 33.04934
+                    -116.628 33.1225
+                    -116.690249 33.178071
+                    -116.729217 33.208684
+                    -116.791 33.2465
+					-116.844 33.279
+					-116.952 33.332
+					-117.0082 33.3409
+                </gml:posList>
+            </gml:LineString>
+            <dip>80</dip>
+            <upperSeismoDepth>0</upperSeismoDepth>
+            <lowerSeismoDepth>11</lowerSeismoDepth>
+        </simpleFaultGeometry>
+    </simpleFaultRupture>
+</nrml>
